@@ -5,4 +5,4 @@
 echo "Docker Version"
 docker -versop 
 ######################
-echo "DEVELOP TEST"
+echo "DEVELOP TESTING"
