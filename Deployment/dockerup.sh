@@ -4,3 +4,5 @@
 echo "Docker Version"
 docker -version 
 ######################
+
+echo "main"
